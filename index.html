@@ -8,9 +8,9 @@
   
       // Eğer desteklenen dillerden biri varsa, ilgili sayfaya yönlendir
       if (supportedLangs.includes(langCode)) {
-        window.location.href = "SumTixFW/" + "SumTixFW/" + langCode + "/";
+        window.location.href = window.location.href + langCode + "/";
       } else {
-        window.location.href = "SumTixFW/" + "SumTixFW/" + defaultLang + "/";
+        window.location.href = window.location.href + defaultLang + "/";
       }
     })();
   </script>
