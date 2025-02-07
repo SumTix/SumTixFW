@@ -1,0 +1,16 @@
+<script>
+  (function() {
+    const userLang = navigator.language || navigator.userLanguage; // Kullanıcının tarayıcı dili
+    const langCode = userLang.substring(0, 2); // Sadece ilk iki harfi al (ör: 'en', 'tr', 'ar')
+
+    const supportedLangs = ["en", "tr", "ar"]; // Desteklenen diller
+    const defaultLang = "en"; // Varsayılan dil
+
+    // Eğer desteklenen dillerden biri varsa, ilgili sayfaya yönlendir
+    if (supportedLangs.includes(langCode)) {
+      window.location.href = "/" + langCode + "/";
+    } else {
+      window.location.href = "/" + defaultLang + "/";
+    }
+  })();
+</script>
