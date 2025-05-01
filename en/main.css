@@ -244,5 +244,28 @@
             pointer-events: none;
             color: #007BFF;
         }
-
-        
+        a.link {
+            color: #6d28d9;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        button.twrp {
+            background-color: #4dabf7;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            font-weight: 500;
+        }
+        button.orangefox {
+            background-color: #f59f00;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            font-weight: 500;
+        }
