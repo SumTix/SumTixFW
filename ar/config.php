@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
 $dbname = "sumtix";
-$username = "root";
-$password = "";
+$username = "ss";
+$password = "558273";
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8mb4", $username, $password);
