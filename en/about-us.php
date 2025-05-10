@@ -98,7 +98,7 @@ My Discord Account : .q2l
         <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     </article>
     <footer>
-        <p>&copy;2025 SumTixFW v0.4</p>
+        <p>&copy;2025 SumTixFW v1</p>
     </footer>
 </body>
 </html>
