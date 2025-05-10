@@ -258,7 +258,7 @@ if ($user->data['user_id'] != ANONYMOUS) {
         <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     </article>
     <footer>
-        <p>&copy;2025 SumTixFW v1</p>
+        <p>&copy;2025 SumTixFW </p>
     </footer>
 </body>
 </html>
