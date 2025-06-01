@@ -75,7 +75,7 @@ if ($user->data['user_id'] != ANONYMOUS) {
                 <h2 class="berlin">About Us</h2>
                 <p>Let's say "About Me" instead of "About Us." I am a 17-year-old technical high school student. I am interested in desktop applications and websites. I also enjoy working on phone and computer repairs. Since getting into this field, my interest in firmware has grown, and I decided to combine these interests and create <span class="berlin">SumTixFW</span>. My goal is both to share what I know with others and to gather all the tools I might need in this field in one place.</p>
                 <pre>
-Project's İnstagram : @sumtixfw
+Project's İnstagram : <a target="_blank" href="https://instagram.com/sumtixfw" class="link">@sumtixfw</a>
 
 My Discord Account : .q2l 
                 </pre>
